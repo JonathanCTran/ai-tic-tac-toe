@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
         target="_blank"
         rel="noopener"
       >
-        GitHub Repo
+        GitHub Repository
       </a>
       <nav style="margin-top: 0.5rem;">
         <a routerLink="turn-based" routerLinkActive="active">Turn-based</a>
